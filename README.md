@@ -43,7 +43,5 @@
 </div>
 
 ### Github Stats :octocat:
-<div id = "github">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Violeta-Tejera&theme=dark&background=74308A)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Violeta-Tejera&theme=dark&background=74308A)](https://git.io/streak-stats)
 
