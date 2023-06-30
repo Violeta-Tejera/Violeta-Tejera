@@ -1,6 +1,14 @@
-### Hi there ![image](https://github.com/Violeta-Tejera/Violeta-Tejera/assets/80209320/39b4c256-6572-4e36-8679-fdfd49d4ad99)
+### Hello, World! 
 
+<div id="badges">
+  <a href= "https://www.linkedin.com/in/violeta-tejera-81086b24b/">
+    <img src = "https://img.shields.io/badge/LinkedIn-purple?logo=linkedin">
+  </a>
 
+  <a href= "https://www.kaggle.com/violetatejera">
+    <img src = "https://img.shields.io/badge/Kaggle-purple?logo=kaggle">
+  </a>
+</div>
 <!--
 **Violeta-Tejera/Violeta-Tejera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
