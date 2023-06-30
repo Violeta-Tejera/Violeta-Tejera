@@ -1,8 +1,8 @@
-### Hello, World! 
+### Hello, World! 🌍
 
 <div id="badges" align="center">
 
-  <p> Welcome to my Github Page!<br> I'm Violeta, a Computer Science student from Spain.<br>Currently learning about machine learning and data science</p>
+  <p> Welcome to my Github Page!<br> I'm Violeta, a Computer Science student from Spain.<br>I'm currently learning about machine learning and data science</p>
   
   <a href= "https://www.linkedin.com/in/violeta-tejera-81086b24b/">
     <img src = "https://img.shields.io/badge/LinkedIn-purple?logo=linkedin">
@@ -13,8 +13,8 @@
   </a>
 </div>
 
+### Languages 💻
 <div id="lang">
-  <p> Languages 💻 </p>
   <img src = "https://img.shields.io/badge/Python-purple?logo=python">
   <img src = "https://img.shields.io/badge/Java-purple?logo=java">
   <img src = "https://img.shields.io/badge/C/C++-purple?logo=c++">
@@ -22,30 +22,28 @@
   <img src = "https://img.shields.io/badge/PostgreSQL-purple?logo=postgresql">
 </div>
 
+### Machine Learning 🧠
+
 <div id="ai">
-  <p> Machine Learning 🧠 </p>
   <img src = "https://img.shields.io/badge/Pandas-purple?logo=pandas">
   <img src = "https://img.shields.io/badge/ScikitLearn-purple?logo=scikitlearn">
 </div>
 
+### Data Science 📊
+
 <div id = "data">
-  <p> Data Science 📊 </p>
   <img src = "https://img.shields.io/badge/R-purple?logo=r">
   <img src = "https://img.shields.io/badge/Seaborn-purple?logo=seaborn">
 </div>
 
+### Robotics 🤖
+
 <div id = "robotics">
-  <p> Robotics 🤖 </p>
   <img src = "https://img.shields.io/badge/Arduino-purple?logo=arduino">
 </div>
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats :octocat:
+<div id = "github">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Violeta-Tejera&theme=dark&background=74308A)](https://git.io/streak-stats)
+</div>
+
