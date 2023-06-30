@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://github.com/Violeta-Tejera/Violeta-Tejera/assets/80209320/39b4c256-6572-4e36-8679-fdfd49d4ad99)
+
 
 <!--
 **Violeta-Tejera/Violeta-Tejera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
