@@ -2,7 +2,7 @@
 
 <div id="badges" align="center">
 
-  <p> Welcome to my Github Page! </p>
+  <p> Welcome to my Github Page!<br> I'm Violeta, a Computer Science student from Spain.<br>Currently learning about machine learning and data science</p>
   
   <a href= "https://www.linkedin.com/in/violeta-tejera-81086b24b/">
     <img src = "https://img.shields.io/badge/LinkedIn-purple?logo=linkedin">
@@ -14,7 +14,7 @@
 </div>
 
 <div id="lang">
-  <p> Languages </p>
+  <p> Languages 💻 </p>
   <img src = "https://img.shields.io/badge/Python-purple?logo=python">
   <img src = "https://img.shields.io/badge/Java-purple?logo=java">
   <img src = "https://img.shields.io/badge/C/C++-purple?logo=c++">
@@ -23,19 +23,19 @@
 </div>
 
 <div id="ai">
-  <p> Machine Learning </p>
+  <p> Machine Learning 🧠 </p>
   <img src = "https://img.shields.io/badge/Pandas-purple?logo=pandas">
   <img src = "https://img.shields.io/badge/ScikitLearn-purple?logo=scikitlearn">
 </div>
 
 <div id = "data">
-  <p> Data Science </p>
+  <p> Data Science 📊 </p>
   <img src = "https://img.shields.io/badge/R-purple?logo=r">
   <img src = "https://img.shields.io/badge/Seaborn-purple?logo=seaborn">
 </div>
 
 <div id = "robotics">
-  <p> Robotics </p>
+  <p> Robotics 🤖 </p>
   <img src = "https://img.shields.io/badge/Arduino-purple?logo=arduino">
 </div>
 <!--
