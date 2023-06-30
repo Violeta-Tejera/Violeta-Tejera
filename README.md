@@ -1,6 +1,6 @@
 ### Hello, World! 
 
-<div id="badges">
+<div id="badges" align="center">
   <a href= "https://www.linkedin.com/in/violeta-tejera-81086b24b/">
     <img src = "https://img.shields.io/badge/LinkedIn-purple?logo=linkedin">
   </a>
