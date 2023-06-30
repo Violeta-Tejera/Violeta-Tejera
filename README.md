@@ -31,7 +31,12 @@
 <div id = "data">
   <p> Data Science </p>
   <img src = "https://img.shields.io/badge/R-purple?logo=r">
-  <img src = "https://img.shields.io/badge/Seaborn?logo=seaborn">
+  <img src = "https://img.shields.io/badge/Seaborn-purple?logo=seaborn">
+</div>
+
+<div id = "robotics">
+  <p> Robotics </p>
+  <img src = "https://img.shields.io/badge/Arduino-purple?logo=arduino">
 </div>
 <!--
 
