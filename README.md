@@ -17,7 +17,7 @@
 <div id="lang">
   <img src = "https://img.shields.io/badge/Python-purple?logo=python">
   <img src = "https://img.shields.io/badge/Java-purple?logo=java">
-  <img src = "https://img.shields.io/badge/C/C++-purple?logo=c++">
+  <img src = "https://img.shields.io/badge/C/C++-purple?logo=c>
   <img src = "https://img.shields.io/badge/CSharp-purple?logo=csharp">
   <img src = "https://img.shields.io/badge/PostgreSQL-purple?logo=postgresql">
 </div>
