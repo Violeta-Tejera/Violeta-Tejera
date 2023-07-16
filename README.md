@@ -26,6 +26,7 @@
 
 <div id="ai">
   <img src = "https://img.shields.io/badge/Pandas-purple?logo=pandas">
+  <img src = "https://img.shields.io/badge/Numpy-purple?logo=numpy">
   <img src = "https://img.shields.io/badge/ScikitLearn-purple?logo=scikitlearn">
 </div>
 
@@ -34,6 +35,7 @@
 <div id = "data">
   <img src = "https://img.shields.io/badge/R-purple?logo=r">
   <img src = "https://img.shields.io/badge/Seaborn-purple?logo=seaborn">
+  <img src = "https://img.shields.io/badge/Matplotlib-purple?logo=matplotlib">
 </div>
 
 ### Robotics 🤖
