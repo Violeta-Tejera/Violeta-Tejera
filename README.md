@@ -13,7 +13,7 @@
   </a>
 </div>
 
-### Languages 💻
+### Languages and more 💻
 <div id="lang">
   <img src = "https://img.shields.io/badge/Python-purple?logo=python">
   <img src = "https://img.shields.io/badge/Java-purple?logo=oracle">
