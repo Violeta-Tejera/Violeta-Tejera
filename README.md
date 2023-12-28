@@ -44,6 +44,4 @@
   <img src = "https://img.shields.io/badge/Arduino-purple?logo=arduino">
 </div>
 
-### Github Stats :octocat:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Violeta-Tejera&theme=dark&background=74308A)](https://git.io/streak-stats)
 
