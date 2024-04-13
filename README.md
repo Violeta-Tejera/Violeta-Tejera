@@ -16,7 +16,7 @@
 
 <hr>
 
-### Languages and more 💻
+### Main languages 💻
 <div id="lang">
   <img src = "https://img.shields.io/badge/Python-purple?logo=python">
   <img src = "https://img.shields.io/badge/Java-purple?logo=oracle">
@@ -52,14 +52,6 @@
 
 <hr>
 
-### (Amateur) Robotics 🤖
-
-<div id = "robotics">
-  <img src = "https://img.shields.io/badge/Arduino-purple?logo=arduino">
-</div>
-
-<hr>
-
 ### Other 📦​
 
 #### Videogames
@@ -67,6 +59,12 @@
 <div id = "videogame">
     <img src = "https://img.shields.io/badge/Unity-purple?logo=unity">
     <img src = "https://img.shields.io/badge/PyGame-purple?logo=pygame">
+</div>
+
+#### (Amateur) Robotics
+
+<div id = "robotics">
+  <img src = "https://img.shields.io/badge/Arduino-purple?logo=arduino">
 </div>
 
 #### Web development
