@@ -21,7 +21,6 @@
   <img src = "https://img.shields.io/badge/Python-purple?logo=python">
   <img src = "https://img.shields.io/badge/Java-purple?logo=oracle">
   <img src = "https://img.shields.io/badge/C%2FC%2B%2B-purple?logo=c%2B%2B">
-  <img src = "https://img.shields.io/badge/CSharp-purple?logo=csharp">
 </div>
 
 <hr>
@@ -77,4 +76,8 @@
   <img src = "https://img.shields.io/badge/JavaScript-purple?logo=javascript">
 </div>
 
+#### Other
 
+<div id = "other">
+  <img src = "https://img.shields.io/badge/Docker-purple?logo=docker">
+</div>
