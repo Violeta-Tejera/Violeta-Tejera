@@ -47,6 +47,7 @@
 
 <div id="ai">
   <img src = "https://img.shields.io/badge/ScikitLearn-purple?logo=scikitlearn">
+  <img src = "https://img.shields.io/badge/TensorFlow-purple?logo=tensorflow">
 </div>
 
 <hr>
