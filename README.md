@@ -3,7 +3,7 @@
 <div id="badges" align="center">
 
   <h1>Welcome to my Github Page!</h1> 
-  <p>I'm Violeta, a Computer Science student from Spain.<br>I'm currently learning about machine learning and data science</p>
+  <p>I'm Violeta, a Computer Science BSc student from Spain.<br>I'm currently learning about machine learning and data science</p>
   
   <a href= "https://www.linkedin.com/in/violeta-tejera/">
     <img src = "https://img.shields.io/badge/LinkedIn-purple?logo=linkedin">
