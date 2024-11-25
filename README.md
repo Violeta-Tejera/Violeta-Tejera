@@ -27,20 +27,13 @@
 
 ### Data Science & Machine Learning 📊
 
-#### Data Science
+#### Data
 
 <div id = "data">
   <img src = "https://img.shields.io/badge/Pandas-purple?logo=pandas">
   <img src = "https://img.shields.io/badge/Numpy-purple?logo=numpy">
+  <img src = "https://img.shields.io/badge/Apache%20Spark-purple?logo=apachespark">
   <img src = "https://img.shields.io/badge/R-purple?logo=r">
-  <img src = "https://img.shields.io/badge/Seaborn-purple?logo=seaborn">
-  <img src = "https://img.shields.io/badge/Matplotlib-purple?logo=matplotlib">
-</div>
-
-#### Databases
-<div id = "db">
-    <img src = "https://img.shields.io/badge/PostgreSQL-purple?logo=postgresql">
-    <img src = "https://img.shields.io/badge/MongoDB-purple?logo=mongodb">
 </div>
 
 #### Machine Learning
@@ -48,6 +41,19 @@
 <div id="ai">
   <img src = "https://img.shields.io/badge/ScikitLearn-purple?logo=scikitlearn">
   <img src = "https://img.shields.io/badge/TensorFlow-purple?logo=tensorflow">
+</div>
+
+#### Data Visualization
+
+<div id = "dataviz">
+  <img src = "https://img.shields.io/badge/Matplotlib-purple?logo=matplotlib">
+  <img src = "https://img.shields.io/badge/Seaborn-purple?logo=seaborn">
+</div>
+
+#### Databases
+<div id = "db">
+    <img src = "https://img.shields.io/badge/PostgreSQL-purple?logo=postgresql">
+    <img src = "https://img.shields.io/badge/MongoDB-purple?logo=mongodb">
 </div>
 
 <hr>
