@@ -71,6 +71,8 @@
 
 <div id = "robotics">
   <img src = "https://img.shields.io/badge/Arduino-purple?logo=arduino">
+  <img src = "https://img.shields.io/badge/Raspberry Pi-purple?logo=raspberrypi">
+  <img src = "https://img.shields.io/badge/ESP32-purple?logo=esp32">
 </div>
 
 #### Web development
@@ -87,4 +89,5 @@
 
 <div id = "other">
   <img src = "https://img.shields.io/badge/Docker-purple?logo=docker">
+  <img src = "https://img.shields.io/badge/Kubernetes-purple?logo=kubernetes">
 </div>
