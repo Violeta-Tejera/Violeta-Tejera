@@ -33,7 +33,6 @@
   <img src = "https://img.shields.io/badge/Pandas-purple?logo=pandas">
   <img src = "https://img.shields.io/badge/Numpy-purple?logo=numpy">
   <img src = "https://img.shields.io/badge/Apache%20Spark-purple?logo=apachespark">
-  <img src = "https://img.shields.io/badge/R-purple?logo=r">
 </div>
 
 #### Machine Learning
