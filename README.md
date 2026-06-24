@@ -19,13 +19,26 @@
 ### Main languages 💻
 <div id="lang">
   <img src = "https://img.shields.io/badge/Python-purple?logo=python">
-  <img src = "https://img.shields.io/badge/Java-purple?logo=oracle">
   <img src = "https://img.shields.io/badge/C%2FC%2B%2B-purple?logo=c%2B%2B">
+  <img src = "https://img.shields.io/badge/Java-purple?logo=oracle">
 </div>
 
 <hr>
 
 ### Data Science & Machine Learning 📊
+
+#### Machine Learning
+
+<div id="ai">
+  <img src = "https://img.shields.io/badge/ScikitLearn-purple?logo=scikitlearn">
+  <img src = "https://img.shields.io/badge/TensorFlow-purple?logo=tensorflow">
+</div>
+
+#### Databases
+<div id = "db">
+    <img src = "https://img.shields.io/badge/PostgreSQL-purple?logo=postgresql">
+    <img src = "https://img.shields.io/badge/MongoDB-purple?logo=mongodb">
+</div>
 
 #### Data
 
@@ -35,12 +48,6 @@
   <img src = "https://img.shields.io/badge/Apache%20Spark-purple?logo=apachespark">
 </div>
 
-#### Machine Learning
-
-<div id="ai">
-  <img src = "https://img.shields.io/badge/ScikitLearn-purple?logo=scikitlearn">
-  <img src = "https://img.shields.io/badge/TensorFlow-purple?logo=tensorflow">
-</div>
 
 #### Data Visualization
 
@@ -49,24 +56,11 @@
   <img src = "https://img.shields.io/badge/Seaborn-purple?logo=seaborn">
 </div>
 
-#### Databases
-<div id = "db">
-    <img src = "https://img.shields.io/badge/PostgreSQL-purple?logo=postgresql">
-    <img src = "https://img.shields.io/badge/MongoDB-purple?logo=mongodb">
-</div>
-
 <hr>
 
 ### Other 📦​
 
-#### Videogames
-
-<div id = "videogame">
-    <img src = "https://img.shields.io/badge/Unity-purple?logo=unity">
-    <img src = "https://img.shields.io/badge/PyGame-purple?logo=pygame">
-</div>
-
-#### (Amateur) Robotics
+#### Robotics platforms
 
 <div id = "robotics">
   <img src = "https://img.shields.io/badge/Arduino-purple?logo=arduino">
@@ -74,19 +68,9 @@
   <img src = "https://img.shields.io/badge/ESP32-purple?logo=esp32">
 </div>
 
-#### Web development
+#### Videogames
 
-<div id = "web">
-  <img src = "https://img.shields.io/badge/Django-purple?logo=django">
-  <img src = "https://img.shields.io/badge/Vue.js-purple?logo=vue.js">
-  <img src = "https://img.shields.io/badge/HTML-purple?logo=html5">
-  <img src = "https://img.shields.io/badge/CSS-purple?logo=css3">
-  <img src = "https://img.shields.io/badge/JavaScript-purple?logo=javascript">
-</div>
-
-#### Other
-
-<div id = "other">
-  <img src = "https://img.shields.io/badge/Docker-purple?logo=docker">
-  <img src = "https://img.shields.io/badge/Kubernetes-purple?logo=kubernetes">
+<div id = "videogame">
+    <img src = "https://img.shields.io/badge/Unity-purple?logo=unity">
+    <img src = "https://img.shields.io/badge/PyGame-purple?logo=pygame">
 </div>
