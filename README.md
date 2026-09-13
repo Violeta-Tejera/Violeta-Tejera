@@ -5,7 +5,7 @@
 - I obtained a BEng in Computer Science from the Universidad Autónoma de Madrid in 2025.
 - I'm currently finishing a MSc in Data Science in that same university while I work as a Research Assistant in Grupo de Aprendizaje Automático.
 - I'm passionate about Machine Learning, Robotics and Open-Source, and love researching about many different topics besides my special interests.
-- I aim to begin a PhD in Computer Science in March 2027.
+- I aim to begin a PhD in Computer Science by March 2027.
 <div align="center">
   <a href="https://orcid.org/0009-0008-1730-3776">
     <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
