@@ -19,11 +19,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://www.kaggle.com/violetatejera">
+ <!-- 
+ <a href="https://www.kaggle.com/violetatejera">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
+-->
 </div>
-
 <hr>
 
 ### Main languages 💻
